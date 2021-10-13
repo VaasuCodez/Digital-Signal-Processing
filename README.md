@@ -27,4 +27,4 @@ MATLAB computational programs for Digital Signal Processing problems
 
 8. FIR band pass filter using Kaiser window
 
-9. Digital LPG using a Butterworth prototype and impulse invariant transformation
+9. Digital LPF using a Butterworth prototype and impulse invariant transformation
